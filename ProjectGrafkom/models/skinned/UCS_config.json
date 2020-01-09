@@ -1,0 +1,10 @@
+{
+	"baseUrl":		"models/skinned/UCS/",
+	"character":	"umich_ucs.js",
+	"skins": 		["Tubuh.jpg","Jaringan_Otot.jpg","Kerangka_Tulang.jpg","Jaringan_Saraf.jpg"],
+	"morphs": 		[],
+	"x":	0,
+	"y":	-500,
+	"z":	-300,
+	"s":	30
+}
